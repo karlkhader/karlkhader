@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on University of Málaga as Associate Professor
+- 🌱 I’m currently learning about Large Language Models
+- 👯 I’m looking to collaborate on Medical Image Processing
+- 💬 Ask me about Deep Learning
+- 📫 How to reach me: karlkhader(at)lcc.uma.es
